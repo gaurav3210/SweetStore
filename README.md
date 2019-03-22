@@ -1,2 +1,2 @@
-# js-cart-setup
-ADD ITEMS TO CART JAVASCRIPT PROJECT
+# Sweet Store
+Sweet Store with the help of html,css and javascript
